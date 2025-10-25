@@ -1,4 +1,5 @@
-- 👋 Hi, I’m RygelGaspar
+Hi, I’m RygelGaspar
+I'm known on GitHub as "RygelGasparTheOG"
 
 <!---
 RygelGasparTheOG/RygelGasparTheOG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
